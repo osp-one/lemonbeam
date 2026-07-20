@@ -145,11 +145,9 @@ npm run dev
 
 ## Running Tests
 
-```bash
-npm test
-```
+Automated test commands are not yet defined in the repository’s `package.json` scripts.
 
-See `TESTING.md` for the complete testing strategy.
+See `TESTING.md` for the planned testing strategy and for when runnable test commands are added.
 
 ---
 
