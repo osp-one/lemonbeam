@@ -85,16 +85,20 @@ The generated guide includes:
 
 ## Repository Structure
 
-```text
+~~~text
 frontend/
 backend/
-docs/
 
 README.md
 PROJECT_BRIEF.md
 ARCHITECTURE.md
 DATABASE.md
-```
+API_CONTRACT.md
+TESTING.md
+DECISIONS.md
+CONTRIBUTING.md
+AGENTS.md
+~~~
 
 ---
 
