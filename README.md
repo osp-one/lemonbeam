@@ -107,13 +107,15 @@ DATABASE.md
 
 ### Installation
 
-```bash
+~~~bash
 git clone <repository-url>
 
-cd lemonbeam
-
+cd lemonbeam/frontend
 npm install
-```
+
+cd ../backend
+npm install
+~~~
 
 ---
 
